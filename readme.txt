@@ -1,3 +1,3 @@
-Je m'appelle Noël. j'utilise mon pc 
+Je m'appelle Noël Dagnisse. j'utilise mon pc 
 Je suis en L2 informatique a ESGIS
-Je suis sur la branche dev
+Je suis sur la branche dev maintenant la branche test
